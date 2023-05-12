@@ -1,0 +1,24 @@
+Model Name: standard_model
+For an audio of length 4-5 seconds, it takes the model 0.3081s of inference time on average
+For an audio of length 5-6 seconds, it takes the model 0.3535s of inference time on average
+For an audio of length 3-4 seconds, it takes the model 0.2119s of inference time on average
+For an audio of length 7-8 seconds, it takes the model 0.4807s of inference time on average
+For an audio of length 8-9 seconds, it takes the model 0.5338s of inference time on average
+Model Name: no_noise_speedperturb
+For an audio of length 4-5 seconds, it takes the model 0.3251s of inference time on average
+For an audio of length 5-6 seconds, it takes the model 0.3691s of inference time on average
+For an audio of length 3-4 seconds, it takes the model 0.2262s of inference time on average
+For an audio of length 7-8 seconds, it takes the model 0.5111s of inference time on average
+For an audio of length 8-9 seconds, it takes the model 0.5622s of inference time on average
+Model Name: w_noise_speedperturb
+For an audio of length 4-5 seconds, it takes the model 0.3164s of inference time on average
+For an audio of length 5-6 seconds, it takes the model 0.3463s of inference time on average
+For an audio of length 3-4 seconds, it takes the model 0.2142s of inference time on average
+For an audio of length 7-8 seconds, it takes the model 0.4762s of inference time on average
+For an audio of length 8-9 seconds, it takes the model 0.5317s of inference time on average
+Model Name: w_noise_wavedrop
+For an audio of length 4-5 seconds, it takes the model 0.3152s of inference time on average
+For an audio of length 5-6 seconds, it takes the model 0.3538s of inference time on average
+For an audio of length 3-4 seconds, it takes the model 0.2182s of inference time on average
+For an audio of length 7-8 seconds, it takes the model 0.4829s of inference time on average
+For an audio of length 8-9 seconds, it takes the model 0.5474s of inference time on average
